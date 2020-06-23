@@ -1,4 +1,4 @@
-# Meeting Scheduler
+# Browser Whiteboard
 
 Use a real-time online whiteboard with text, geometric shapes, and undo in your browser on desktop, tablet, or smartphone.
 
