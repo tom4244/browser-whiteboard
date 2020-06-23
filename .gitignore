@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+
+# webpack bundles
+server/bundle.js
+server/bundle.js.map
+
+.directory
+.idea/
+
